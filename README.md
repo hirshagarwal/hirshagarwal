@@ -1,7 +1,8 @@
 ### Hirsh Agarwal
 
 Medical Student and Software Engineer working on various projects at all times.
-Current Projects
+
+Current Project Selection:
 * 🔬 [MRI Seg](https://github.com/hirshagarwal/MRISeg) - A transfer learning image segmentation network pre-trained on glioma MRI images
 * 📚 [Studius](https://www.studius.ai) - Spaced repetition flashcard application
 * 🩺 [HealthChain](https://github.com/hirshagarwal/HealthChain) - Blockchain based medical health record system

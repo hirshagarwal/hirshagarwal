@@ -3,9 +3,9 @@
 Medical Student and Software Engineer working on various projects at all times.
 
 Current Project Selection:
-* 🔬 [MRI Seg](https://github.com/hirshagarwal/MRISeg) - A transfer learning image segmentation network pre-trained on glioma MRI images
+* 🩺 [MRI Seg](https://github.com/hirshagarwal/MRISeg) - A transfer learning image segmentation network pre-trained on glioma MRI images
 * 📚 [Studius](https://www.studius.ai) - Spaced repetition flashcard application
-* 🩺 [HealthChain](https://github.com/hirshagarwal/HealthChain) - Blockchain based medical health record system
+* 🔬 [GLADR](https://github.com/hirshagarwal/GLADR) - Configurable analysis pipeline to accelerate scientific research
 
 <!--
 **hirshagarwal/hirshagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
